@@ -1,2 +1,2 @@
 # FaturaOkuma-OCR
-YazLabProje1
+
